@@ -1,0 +1,15 @@
+{
+ "scenes": [
+  "Scene2",
+  "SceneLogin",
+  "SceneTV",
+  "Scene1",
+  "ScenePeople",
+  "ScenePeopleDet",
+  "SceneTVDet",
+  "SceneSearch"
+ ],
+ "files": [],
+ "theme": "base",
+ "modules": ["ime"]
+}

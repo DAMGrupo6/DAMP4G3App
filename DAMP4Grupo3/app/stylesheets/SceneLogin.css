@@ -1,0 +1,23 @@
+#SceneSceneLogin {
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 1280px;
+	height : 720px;
+	font-family: 'Open Sans', sans-serif;
+	background-color: rgba(10,10,10,1);
+}
+
+#SceneSceneLogin #username{
+	position : absolute;
+	left : 119px;
+	top : 110px;
+	width : 173px;
+}
+
+#SceneSceneLogin #password{
+	position : absolute;
+	left : 119px;
+	top : 180px;
+	width : 173px;
+}

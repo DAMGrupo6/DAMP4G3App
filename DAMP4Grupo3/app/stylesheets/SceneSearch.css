@@ -1,0 +1,47 @@
+#SceneSceneSearch {
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 1280px;
+	height : 720px;
+	font-family: 'Open Sans', sans-serif;
+	background-color: black;
+	background-image : url('');
+}
+
+.row {
+	margin: 0;
+	margin-bottom: 10px;
+	margin-left: 5px;
+}
+
+#SceneSceneSearch #search{
+	position : absolute;
+	left : 540px;
+	top : 165px;
+	width : 200px;
+}
+
+#searchresults h1 {
+	text-align: center;
+	left : 10px;
+	top : 50px;
+	background-color: black;
+	color: #CCCCCC;
+	font-size: 0.40 em;
+}
+
+#searchresults img {
+	width: 100%;
+	margin-top: 10px;
+}
+
+#searchresults h2 {
+	text-align: center;
+	left : 10px;
+	top : 50px;
+	background-color: black;
+	color: #CCCCCC;
+	font-size: 0.20 em;	
+	text-transform: lowercase;
+}
